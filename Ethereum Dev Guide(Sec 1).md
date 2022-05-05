@@ -1,19 +1,21 @@
-# Ethereum & Solidity: The Complete Developer's Guide.
-> Syntesis of the Ethereum Developer guide.
+# Ethereum & Solidity: The Complete Developer's Guide(Sec 1).
+> Syntesis of the Ethereum Developer guide's First Section.
 
 
 ## Table of Contents
 * [Glossary](#glossary)
-* [Technologies Used](#technologies-used)
-* [Features](#features)
-* [Screenshots](#screenshots)
-* [Setup](#setup)
-* [Usage](#usage)
+* [Short History](#short-history)
+* [What Is Ethereum?](#what-is-ethereum)
+* [Ethereum Accounts](#ethereum-accounts)
+* [Interfacing With Ethereum Networks](#interfacing-with-ethereum-networks)
+* [Transactions & Gas](#transaction-&-gas)
+* [Solidity](#solidity)
+* [Remix](#remix)
+* [Deploying Contracts](#deploying-contracts)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
-* [Contact](#contact)
-<!-- * [License](#license) -->
+
 
 
 ## Glossary
@@ -24,55 +26,48 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
-## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+## Short History
+- BTC Paper - 2008
+- Ethereum white Paper - 2013
+- 
 
-
-## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
-
-
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
-
-
-## Setup
+## What Is Ethereum?
 What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
 
 Proceed to describe how to install / setup one's local environment / get started with the project.
 
 
-## Usage
+## Interfacing With Ethereum Networks
+How does one go about using it?
+![Example screenshot](./img/screenshot.png)
+
+
+## Ethereum Accounts
 How does one go about using it?
 Provide various use cases and code examples here.
 
-`write-your-code-here`
+
+## Transaction Anatomy
+How does one go about using it?
+Provide various use cases and code examples here.
+
+
+## Solidity
+How does one go about using it?
+Provide various use cases and code examples here.
 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+Project is: _in progress_ 
 
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-- Feature to be added 1
-- Feature to be added 2
+- Recreate The Diagrams On Draw.io
+- Imp 2
 
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+
+- This project was based on [this tutorial](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/).
+
