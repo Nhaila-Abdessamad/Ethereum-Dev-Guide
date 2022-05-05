@@ -6,7 +6,6 @@
 * [Glossary](#glossary)
 * [Short History](#short-history)
 * [What Is Ethereum?](#what-is-ethereum)
-* [Ethereum Accounts](#ethereum-accounts)
 * [Interfacing With Ethereum Networks](#interfacing-with-ethereum-networks)
 * [Transactions and Gas](#transactions-and-gas)
 * [Smart Contracts](#solidity)
@@ -21,13 +20,12 @@
 
 ## Glossary
 
-- Transactions : 
-
 - Node : A machine that is running an Ethereum client machine.
 - Networks : Networks are formed by one or more nodes.
-- Block : 
-- BlockChain : What problem does it (intend to) solve?What problem does it (intend to) solve?What problem does it (intend to) solve?What problem does it (intend to) solve?What 
-- Smart Contract :
+- Transaction : 
+- Block : Group of Transactions. 
+- BlockChain : a database that stores a record of every transaction. And it's also where we store data in the form of a chain of Blocks(hence The Name).
+- Smart Contract : 
 
 
 ## Short History
@@ -46,15 +44,9 @@ used to store data.
 - there's one main Ethereum network that everyone uses for deployment of production applications.
 - There are test networks.
 - You can even create your own private Ethereum network on your own computer that is restricted to just you.
-- You can even create your own private Ethereum network on your own computer that is restricted to just you.
 - Networks are formed by one or more nodes.
 - anyone can run a node
-- Each Node 
-
-
-## Ethereum Accounts
-How does one go about using it?
-Provide various use cases and code examples here.
+- Each Node can contain a full copy of the BlockChain.
 
 
 ## Interfacing With Ethereum Networks
