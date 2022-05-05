@@ -8,7 +8,8 @@
 * [What Is Ethereum?](#what-is-ethereum)
 * [Ethereum Accounts](#ethereum-accounts)
 * [Interfacing With Ethereum Networks](#interfacing-with-ethereum-networks)
-* [Transactions & Gas](#transaction-&-gas)
+* [Transactions and Gas](#transactions-and-gas)
+* [Smart Contracts](#solidity)
 * [Solidity](#solidity)
 * [Remix](#remix)
 * [Deploying Contracts](#deploying-contracts)
@@ -19,27 +20,36 @@
 
 
 ## Glossary
-- Gas : What problem does it (intend to) solve?What problem does it (intend to) solve?What problem does it (intend to) solve?What problem does it (intend to) solve?What problem does it (intend to) solve?.
-- X :
-- Y :
-- Z :
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+- Transactions : 
+
+- Node : A machine that is running an Ethereum client machine.
+- Networks : Networks are formed by one or more nodes.
+- Block : 
+- BlockChain : What problem does it (intend to) solve?What problem does it (intend to) solve?What problem does it (intend to) solve?What problem does it (intend to) solve?What 
+- Smart Contract :
 
 
 ## Short History
-- BTC Paper - 2008
-- Ethereum white Paper - 2013
-- 
+- BTC Paper - 2008 (BlockChain Technology for money Transfer Only) (Went Online in 2009)
+- Ethereum white Paper - 2013 (Creation complex applications on top of BlockChain Technology) (Went Online in 2015)
+- "ETH White Paper" discusses need for more programatic control over Transactions.
+- Wanted to enable creation of Desentralised Autonumous Corporations (DAC).
+- Introduces the Idea of 'smart contracts' as an entity that can send and receive currency beyond just humans. 
+
 
 ## What Is Ethereum?
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
-
-## Interfacing With Ethereum Networks
-How does one go about using it?
-![Example screenshot](./img/screenshot.png)
+- when we work with Ethereum, we are working with a network of computers.
+- These networks are used to transfer money between different parties like you and me, and they're also
+used to store data.
+- there are many different Ethereum networks.
+- there's one main Ethereum network that everyone uses for deployment of production applications.
+- There are test networks.
+- You can even create your own private Ethereum network on your own computer that is restricted to just you.
+- You can even create your own private Ethereum network on your own computer that is restricted to just you.
+- Networks are formed by one or more nodes.
+- anyone can run a node
+- Each Node 
 
 
 ## Ethereum Accounts
@@ -47,12 +57,26 @@ How does one go about using it?
 Provide various use cases and code examples here.
 
 
-## Transaction Anatomy
+## Interfacing With Ethereum Networks
+How does one go about using it?
+![Example screenshot](./img/screenshot.png)
+
+
+
+## Transactions And Gas
 How does one go about using it?
 Provide various use cases and code examples here.
 
 
 ## Solidity
+How does one go about using it?
+Provide various use cases and code examples here.
+
+## Remix
+How does one go about using it?
+Provide various use cases and code examples here.
+
+## Deploying Contracts
 How does one go about using it?
 Provide various use cases and code examples here.
 
