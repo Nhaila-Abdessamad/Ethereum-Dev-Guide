@@ -1,9 +1,9 @@
-# Project Name
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+# Ethereum & Solidity: The Complete Developer's Guide.
+> Syntesis of the Ethereum Developer guide.
+
 
 ## Table of Contents
-* [General Info](#general-information)
+* [Glossary](#glossary)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Screenshots](#screenshots)
@@ -16,11 +16,11 @@
 <!-- * [License](#license) -->
 
 
-## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
+## Glossary
+- Gas : What problem does it (intend to) solve?What problem does it (intend to) solve?What problem does it (intend to) solve?What problem does it (intend to) solve?What problem does it (intend to) solve?.
+- X :
+- Y :
+- Z :
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
