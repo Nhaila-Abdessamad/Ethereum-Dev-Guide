@@ -8,10 +8,10 @@
 * [What Is Ethereum?](#what-is-ethereum)
 * [Interfacing With Ethereum Networks](#interfacing-with-ethereum-networks)
 * [Transactions and Gas](#transactions-and-gas)
-* [Smart Contracts](#solidity)
+* [Smart Contracts](#smart-contracts)
 * [Solidity](#solidity)
-* [Remix](#remix)
 * [Deploying Contracts](#deploying-contracts)
+* [Remix](#remix)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
@@ -25,6 +25,7 @@
 - Transaction : Transactions are cryptographically signed instructions from accounts. An account will initiate a transaction to update the state of the Ethereum network. The simplest transaction is transferring ETH from one account to another.
 - Block : Group of Transactions. 
 - BlockChain : A database that stores a record of every transaction. And it's also where we store data in the form of a chain of Blocks(hence The Name).
+- EVM : The EVM’s physical instantiation can’t be described in the same way that one might point to a cloud or an ocean wave, but it does exist as one single entity maintained by thousands of connected computers running an Ethereum client.
 - Private Key : A private key is made up of 64 hex characters and can be encrypted with a password.
 - Public Key : The public key is generated from the private key using the Elliptic Curve Digital Signature Algorithm.
 - Account : An Ethereum account is an entity with an ether (ETH) balance that can send transactions on Ethereum. Accounts can be user-controlled or deployed as smart contracts.
@@ -63,21 +64,49 @@ used to store data.
 
 
 ## Transactions And Gas
-How does one go about using it?
-Provide various use cases and code examples here.
+- An Ethereum transaction refers to an action initiated by an externally-owned account.
+- Transactions, which change the state of the EVM, need to be broadcast to the whole network.
+- Any node can broadcast a request for a transaction to be executed on the EVM; after this happens.
+- A miner will execute the transaction and propagate the resulting state change to the rest of the network.
+- Transactions require a fee and must be mined to become valid.
+- A submitted transaction includes the following information:
+  1. recipient – the receiving address (if an externally-owned account, the transaction will transfer value. If a contract account, the transaction will execute the contract code).
+  2. signature – the identifier of the sender. This is generated when the sender's private key signs the transaction and confirms the sender has authorized this transaction.
+  3. value – amount of ETH to transfer from sender to recipient (in WEI, a denomination of ETH).
+  4. data – optional field to include arbitrary data.
+  5. gasLimit – the maximum amount of gas units that can be consumed by the transaction. Units of gas represent computational steps.
+  6. maxPriorityFeePerGas - the maximum amount of gas to be included as a tip to the miner.
+  7. maxFeePerGas - the maximum amount of gas willing to be paid for the transaction (inclusive of baseFeePerGas and maxPriorityFeePerGas).
 
 
-## Solidity
-How does one go about using it?
-Provide various use cases and code examples here.
+## Smart Contracts 
+- A "smart contract" is simply a program that runs on the Ethereum blockchain.
+- It's a collection of code (its functions) and data (its state) that resides at a specific address on the Ethereum blockchain.
+- Smart contracts are a type of Ethereum account.
+- This means they have a balance and they can send transactions over the network.
+- However they're not controlled by a user, instead they are deployed to the network and run as programmed.
+- User accounts can then interact with a smart contract by submitting transactions that execute a function defined on the smart contract.
+- Smart contracts can define rules, like a regular contract, and automatically enforce them via the code.
+- Smart contracts cannot be deleted by default, and interactions with them are irreversible.
+
+
+## Solidity 
+- Solidity is an object-oriented, high-level language for implementing smart contracts. 
+- Smart contracts are programs which govern the behaviour of accounts within the Ethereum state.
+- Solidity is a curly-bracket language designed to target the Ethereum Virtual Machine (EVM). 
+- It is influenced by C++, Python and JavaScript.
+
+
+## Deploying Contracts
+- You need to deploy your smart contract for it to be available to users of an Ethereum network.
+- To deploy a smart contract, you merely send an Ethereum transaction containing the compiled code of the smart contract without specifying any recipient.
+
 
 ## Remix
 How does one go about using it?
 Provide various use cases and code examples here.
 
-## Deploying Contracts
-How does one go about using it?
-Provide various use cases and code examples here.
+
 
 
 ## Project Status
@@ -91,6 +120,5 @@ Project is: _in progress_
 
 
 ## Acknowledgements
-
 - This project was based on [this tutorial](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/).
 
