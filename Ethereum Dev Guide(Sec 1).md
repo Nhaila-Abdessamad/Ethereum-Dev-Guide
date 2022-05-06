@@ -24,7 +24,10 @@
 - Networks : Networks are formed by one or more nodes.
 - Transaction : 
 - Block : Group of Transactions. 
-- BlockChain : a database that stores a record of every transaction. And it's also where we store data in the form of a chain of Blocks(hence The Name).
+- BlockChain : A database that stores a record of every transaction. And it's also where we store data in the form of a chain of Blocks(hence The Name).
+- Private Key : 
+- Public Key : 
+- Metamask : Browser Extension to interact with the Ethereum network through Mnemonic generated accounts.
 - Smart Contract : 
 
 
@@ -50,6 +53,8 @@ used to store data.
 
 
 ## Interfacing With Ethereum Networks
+- Developers Interact with ETH network through Web.js 
+- Normal Users(Cutomers) Interact with the network through Metamask.
 ![Example screenshot](./img/screenshot.png)
 
 
