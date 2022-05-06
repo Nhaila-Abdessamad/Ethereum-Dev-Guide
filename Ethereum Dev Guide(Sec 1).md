@@ -50,8 +50,8 @@ used to store data.
 
 
 ## Interfacing With Ethereum Networks
-How does one go about using it?
 ![Example screenshot](./img/screenshot.png)
+
 
 
 
