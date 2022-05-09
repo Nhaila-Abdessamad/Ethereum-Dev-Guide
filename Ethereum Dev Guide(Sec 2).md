@@ -6,8 +6,7 @@
 ## Table of Contents
 * [Installing Nodejs npm and Git](#installing-nodejs-npm-and-git)
 * [Contract Deployment](#contract-deployment)
-* [Project Requirements](#project-requirements)
-* [Project File Walkthrough](#project-file-walkthrough)
+* [Node Project Structure](#node-project-structure)
 * [Compiling Solidity](#compiling-solidity)
 * [The Compile Script](#the-compile-script)
 * [Testing Architecture](#testing-architecture)
@@ -48,7 +47,12 @@
 - This section is about creation of a custom node Project that represents a light version of the truffle Library.
 
 ## Node Project Structure:
-Inline-style: 
+asdasdaasdasdasdsdsd
+asd
+asad
+sad
+asd
+
 ![alt text](https://github.com/Nhaila-Abdessamad/blockchain/blob/main/FIGs/Sec2/NodeProj%20Struct.png "Projact Structure")
 
 ## Compiling Solidity
