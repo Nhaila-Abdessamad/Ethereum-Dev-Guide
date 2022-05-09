@@ -48,7 +48,8 @@
 - This section is about creation of a custom node Project that represents a light version of the truffle Library.
 
 ## Node Project Structure:
-
+Inline-style: 
+![alt text](https://github.com/Nhaila-Abdessamad/blockchain/blob/main/FIGs/Sec2/NodeProj%20Struct.png "Projact Structure")
 
 ## Compiling Solidity
 ## The Compile Script
