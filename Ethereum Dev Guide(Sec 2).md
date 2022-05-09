@@ -37,6 +37,8 @@
 ## Tools Used:
 1. Truffle
 2. Ganache
+3. Ifura
+4. Mocha
 
 ## Contract Deployment
 - There is multiple ways to deploy a contract:
