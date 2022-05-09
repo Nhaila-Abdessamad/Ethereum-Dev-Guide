@@ -33,9 +33,23 @@
 
 
 ## Installing Nodejs npm and Git
+- Normal dev Environement Preparation.
+
+## Tools Used:
+1. Truffle
+2. Ganache
+
 ## Contract Deployment
-## Project Requirements
-## Project File Walkthrough
+- There is multiple ways to deploy a contract:
+- Deployment Process:
+ 1. compilation of the contract source by a solidity compiler (SC).
+ 2. The SC spits out an ABI & the contract byteCode.
+ 3. This ByteCode is what ends up deployed to some Network.
+- This section is about creation of a custom node Project that represents a light version of the truffle Library.
+
+## Node Project Structure:
+
+
 ## Compiling Solidity
 ## The Compile Script
 ## Testing Architecture 
