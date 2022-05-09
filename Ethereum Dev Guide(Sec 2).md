@@ -4,11 +4,11 @@
 
 
 ## Table of Contents
-* [Installing Node.js npm and Git](#installing-node.js-npm-git)
-* [Contract Deployment](#contract-deployement)
+* [Installing Nodejs npm and Git](#installing-nodejs-npm-and-git)
+* [Contract Deployment](#contract-deployment)
 * [Project Requirements](#project-requirements)
 * [Project File Walkthrough](#project-file-walkthrough)
-* [Compiling Solidity](#compyling-solidity)
+* [Compiling Solidity](#compiling-solidity)
 * [The Compile Script](#the-compile-script)
 * [Testing Architecture](#testing-architecture)
 * [Installing Modules](#remix)
@@ -32,7 +32,7 @@
 * [Project Review](#acknowledgements)
 
 
-## Installing Node.js npm and Git
+## Installing Nodejs npm and Git
 ## Contract Deployment
 ## Project Requirements
 ## Project File Walkthrough
@@ -41,16 +41,23 @@
 ## Testing Architecture 
 ## Installing Modules
 ## Web3 Versioning
-## Project File Walkthrough
-## Transactions And Gas
-## Smart Contracts 
-## Solidity 
-## Deploying Contracts
-## Remix
-
-
-
-
+## Web3 Providers
+## Testing with Mocha
+## Mocha Structure
+## Fetching Accounts from Ganache 
+## Refactor to Async/Await
+## Deployment with Web3
+## Deployed Inbox Overview
+## Asserting Deployment
+## Verifying the Initial Message
+## Testing Message Updates
+## Deployment with Infura 
+## Infura Signup
+## Wallet Provider Setup
+## Deployment to Rinkeby
+## Observing Deployment on Etherscan
+## Deployed Contracts in Remix
+## Project Overview
 ## Project Status
 Project is: _in progress_ 
 ## Room for Improvement
