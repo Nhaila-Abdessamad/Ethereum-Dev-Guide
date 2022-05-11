@@ -14,7 +14,7 @@
 * [Remix](#remix)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
+* [Resources](#resources)
 
 
 
@@ -123,6 +123,7 @@ Project is: _in progress_
 - Imp 2
 
 
-## Acknowledgements
+## Resources
 - This project was based on [this tutorial](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/).
+- [Ganache with remix article](https://medium.com/@kacharlabhargav21/using-ganache-with-remix-and-metamask-446fe5748ccf).
 
