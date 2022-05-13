@@ -13,7 +13,6 @@
 * [Deploying Contracts](#deploying-contracts)
 * [Remix](#remix)
 * [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
 * [Resources](#resources)
 
 
