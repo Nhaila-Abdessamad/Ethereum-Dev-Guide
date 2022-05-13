@@ -1,4 +1,4 @@
-# Ethereum & Solidity: The Complete Developer's Guide(Sec 1).
+# Ethereum & Solidity: The Complete Developer's Guide.
 > Syntesis of the Ethereum Developer guide's First Section.
 
 
@@ -59,8 +59,6 @@ used to store data.
 - Developers Interact with ETH network through Web.js 
 - Normal Users(Cutomers) Interact with the network through Metamask.
 ![Example screenshot](./img/screenshot.png)
-
-
 
 
 ## Transactions And Gas
