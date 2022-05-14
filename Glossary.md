@@ -2,8 +2,8 @@
 > Syntesis of the Ethereum Developer guide's First Section.
 
 
-## Table of Contents
-* [Glossary](#glossary)
+## Glossary
+* [Node](#node)
 * [Short History](#short-history)
 * [What Is Ethereum?](#what-is-ethereum)
 * [Interfacing With Ethereum Networks](#interfacing-with-ethereum-networks)
@@ -17,7 +17,7 @@
 
 
 
-## Glossary
+## Node
 
 - Node : A machine that is running an Ethereum client machine.
 - Networks : Networks are formed by one or more nodes.
