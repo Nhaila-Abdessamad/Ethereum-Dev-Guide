@@ -1,7 +1,6 @@
 # Ethereum & Solidity: The Complete Developer's Guide.
 > Syntesis of the Ethereum Developer guide's First Section.
 
-
 ## Glossary
 * [Node](#node)
 * [Short History](#short-history)
@@ -14,7 +13,6 @@
 * [Remix](#remix)
 * [Project Status](#project-status)
 * [Resources](#resources)
-
 
 
 ## Node
@@ -77,7 +75,7 @@ used to store data.
 
 
 ## Smart Contracts 
-- A "smart contract" is simply a program that runs on the Ethereum blockchain.
+- A "smart contract" is simply a program that runs on the Ethereum blockchain.00000
 - It's a collection of code (its functions) and data (its state) that resides at a specific address on the Ethereum blockchain.
 - Smart contracts are a type of Ethereum account.
 - This means they have a balance and they can send transactions over the network.
