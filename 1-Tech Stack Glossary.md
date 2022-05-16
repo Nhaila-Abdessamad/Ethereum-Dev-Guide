@@ -2,65 +2,75 @@
 > This The Tech Stack Glossary Section.
 
 ## Glossary
-* [Node](#node)
-* [Networks](#networks)
-* [Transaction](#transaction)
-* [Block](block)
-* [BlockChain](#blockChain)
-* [EVM](#EVM)
-* [Private Key](#private-key)
-* [Public Key](#public-key)
-* [Account](#account)
-* [Metamask](#project-status)
-* [Gas](#resources)
+* [REMIX](#remix)
+* [SOLIDITY](#solidity)
+* [METAMASK](#metamask)
+* [ETHERSCAN](etherscan)
+* [WEB3](#web3)
+* [TRUFFLE](#truffle)
+* [GANACHE](#ganache)
+* [DRIZZLE](#drizzle)
+* [INFURA](#infura)
+* [IPFS](#ipfs)
+* [Ethereum Go](#ethereum-go)
+* [OpenZeppelin](#openzeppelin)
+* [Blockscout](#blocskout)
 
 
-## Node
+## REMIX
+- Remix IDE is an open source web and desktop application. It fosters a fast development cycle and has a rich set of plugins with intuitive GUIs.
+-  Remix is used for the entire journey of contract development as well as act as a playground for learning and teaching Ethereum.
+-  Remix IDE is part of the Remix Project which is a platform for development tools that use a plugin architecture.
+-  It encompasses sub-projects including Remix Plugin Engine, Remix Libs, and of course Remix-IDE.
+-  Remix IDE is a powerful open source tool that helps you write Solidity contracts straight from the browser.
+-  It is written in JavaScript and supports both usage in the browser, but run locally and in a desktop version.
+-  Remix IDE has modules for testing, debugging and deploying of smart contracts and much more.
 
-- Node : A machine that is running an Ethereum client machine.
-- Networks : Networks are formed by one or more nodes.
-- Transaction : Transactions are cryptographically signed instructions from accounts. An account will initiate a transaction to update the state of the Ethereum network. The simplest transaction is transferring ETH from one account to another.
-- Block : Group of Transactions. 
-- BlockChain : A database that stores a record of every transaction. And it's also where we store data in the form of a chain of Blocks(hence The Name).
-- EVM : The EVM’s physical instantiation can’t be described in the same way that one might point to a cloud or an ocean wave, but it does exist as one single entity maintained by thousands of connected computers running an Ethereum client.
-- Private Key : A private key is made up of 64 hex characters and can be encrypted with a password.
-- Public Key : The public key is generated from the private key using the Elliptic Curve Digital Signature Algorithm.
-- Account : An Ethereum account is an entity with an ether (ETH) balance that can send transactions on Ethereum. Accounts can be user-controlled or deployed as smart contracts.
-- Metamask : Browser Extension to interact with the Ethereum network through Mnemonic generated accounts.
-- Gas : Gas is essential to the Ethereum network. It is the fuel that allows it to operate, in the same way that a car needs gasoline to run.
-- Smart Contract : A "smart contract" is simply a program that runs on the Ethereum blockchain. It's a collection of code (its functions) and data (its state) that resides at a specific address on the Ethereum blockchain.
+## SOLIDITY
+- Solidity is an object-oriented, high-level language for implementing smart contracts. 
+- Smart contracts are programs which govern the behaviour of accounts within the Ethereum state.
+- Solidity is a curly-bracket language designed to target the Ethereum Virtual Machine (EVM). 
+- It is influenced by C++, Python and JavaScript.
 
+## METAMASK
+- MetaMask allows users to manage accounts and their keys in a variety of ways, including hardware wallets, while isolating them from the site context.
+- This is a great security improvement over storing the user keys on a single central server, or even in local storage, which can allow for mass account thefts.
+- This security feature also comes with developer convenience: For developers, you simply interact with the globally available ethereum API that identifies the users of web3-compatible browsers (like MetaMask users).
+- and whenever you request a transaction signature (like eth_sendTransaction, eth_signTypedData, or others), MetaMask will prompt the user in as comprehensible a way as possible.
+- This keeps users informed, and leaves attackers only the option of trying to phish individual users, rather than performing mass hacks.
 
-## Short History
+## ETHERSCAN
+- Etherscan is the leading blockchain explorer, search, API and analytics platform for Ethereum, a decentralized smart contracts platform.
+- Etherscan community Developed APIs to empower developers with direct access to Etherscan's block explorer data and services via GET/POST requests.
 
+## WEB3
 
-## What Is Ethereum?
+## TRUFFLE 
+- world-class development environment, testing framework, and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM), aiming to make life as a developer easier.
 
+## GANACHE 
+-  It is a locally deployed Blockchain simulator. Ganache features a graphical user interface that can simulate Blockchain networks and live-test Smart Contracts without requiring you to set up real test networks or using to a remote network.   
 
-## Interfacing With Ethereum Networks
+## DRIZZLE
+-  It is an assortment of front-end libraries that offer useful components for developing web applications that can seamlessly connect with the Smart Contracts. 
 
-## Transactions And Gas
+## INFURA
 
+## IPFS
 
-## Smart Contracts 
+## Ethereum Go
 
+## OpenZeppelin
 
-## Solidity 
+## Blockscout
 
-
-## Deploying Contracts
-
-
-## Remix
-
-
-## Project Status
-Project is: _in progress_ 
+## Markdown Status
+ _in progress_ 
 
 ## Room for Improvement
 
 - Recreate The Diagrams On Draw.io
-- Imp 2
+
 
 ## Resources
 - This project was based on [this tutorial](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/).
