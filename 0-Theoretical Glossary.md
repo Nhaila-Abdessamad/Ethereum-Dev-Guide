@@ -27,7 +27,7 @@ Networks are formed by one or more nodes.
  The EVM’s physical instantiation can’t be described in the same way that one might point to a cloud or an ocean wave, but it does exist as one single entity maintained by thousands of connected computers running an Ethereum client.
 
 ## Block
- Group of Transactions.
+ Group of Transactions..
 
 ## BlockChain
  A database that stores a record of every transaction. And it's also where we store data in the form of a chain of Blocks(hence The Name).
