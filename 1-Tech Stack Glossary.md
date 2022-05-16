@@ -1,5 +1,5 @@
 # Ethereum & Solidity: The Complete Developer's Guide.
-> Syntesis of the Ethereum Developer guide's First Section.
+> This The Tech Stack Glossary Section.
 
 ## Glossary
 * [Node](#node)
