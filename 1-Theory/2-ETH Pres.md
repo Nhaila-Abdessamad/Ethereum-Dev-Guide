@@ -2,7 +2,7 @@
 
 
 ## Glossary
-* [Short History](#btc-paper)
+* [Short History](#short-history)
 * [BTC Paper](#btc-paper)
 * [ETH White Pape](#eth-whitepaper)
 * [What Is Ethereum?](#what-is-ethereum)
