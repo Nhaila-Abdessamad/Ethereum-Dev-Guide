@@ -1,11 +1,9 @@
-# Ethereum & Solidity: The Complete Developer's Guide.
-> This The Tech Stack Glossary Section.
+# Tech Stack Glossary
 
 ## Glossary
 * [REMIX](#remix)
 * [SOLIDITY](#solidity)
 * [METAMASK](#metamask)
-* [ETHERSCAN](etherscan)
 * [WEB3](#web3)
 * [TRUFFLE](#truffle)
 * [GANACHE](#ganache)
@@ -14,6 +12,7 @@
 * [IPFS](#ipfs)
 * [Ethereum Go](#ethereum-go)
 * [OpenZeppelin](#openzeppelin)
+* [ETHERSCAN](etherscan)
 * [Blockscout](#blocskout)
 
 
@@ -60,26 +59,10 @@
 
 ## IPFS
 
-
--[Instalation Guide](https://docs.ipfs.io/install/command-line/#official-distributions)
--[File Manipulation Examples Github](https://gist.github.com/whyrusleeping/66a85789d2abb8971fff)
-
--[Files Browser Link](https://ipfs.filebase.io/ipfs/Qme9yNpup7qKTYiKUe75oSaxAR2E9nVLwpp6tpZ79Lv9U2)
-
--[Lib p2p](https://hexdocs.pm/libp2p/Libp2p.DHT.html)
-
--[IPFS: How to use IPFS CIDs and Fetch IPFS Links](https://docs.filebase.com/knowledge-base/fetching-data/how-to-use-ipfs-cids-and-fetch-ipfs-links)
-
--[Content addressing and CIDs](https://docs.ipfs.io/concepts/content-addressing/#identifier-formats)
-
--[A Technical Guide to IPFS – the Decentralized Storage](https://www.freecodecamp.org/news/technical-guide-to-ipfs-decentralized-storage-of-web3/#how-to-use-ipfs)
-
-=[ How IPFS works](https://docs.ipfs.io/concepts/how-ipfs-works/#content-addressing)
-
 ## Ethereum Go
 
 ## OpenZeppelin
-- Predifined Contracts to help in a
+- Predifined Contracts to not reinvent the wheel.
 
 ## Blockscout
 

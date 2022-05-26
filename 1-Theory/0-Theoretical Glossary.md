@@ -1,5 +1,4 @@
-# Ethereum & Solidity: The Complete Developer's Guide.
- This The Theoretical Glossary Section.
+# Theoretical Glossary
 
 ## Glossary
 * [Node](#node)
@@ -10,6 +9,8 @@
 * [Private Key](#private-key)
 * [Public Key](#public-key)
 * [Account](#account)
+* [Mnemonics](#mnemonics)
+* [Faucets](#faucets)
 * [Smart Contract](#smart-contract)
 * [Transaction](#transaction)
 * [Gas](#gas)

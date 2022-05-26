@@ -81,8 +81,14 @@ asd
 ## Project Overview
 ## Project Status
 Project is: _in progress_ 
-## Room for Improvement
-- Recreate The Diagrams On Draw.io
-## Acknowledgements
-- This project was based on [this tutorial](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/).
+
+## Resources
+- [Truffle NFT MarketPlace 1](https://github.com/eQereum/truffle-web3-nft-marketplace)
+- [Truffle NFT MarketPlace 2](https://github.com/miquelTC/nft-marketplace)
+- [a](xx)
+- [a](xx)
+- [a](xx)
+- [a](xx)
+- [a](xx)
+
 

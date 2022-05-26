@@ -14,12 +14,6 @@
 ## Installing Nodejs npm and Git
 - Normal dev Environement Preparation.
 
-## Tools Used:
-1. Truffle
-2. Ganache
-3. Ifura
-4. Mocha
-
 ## Contract Deployment
 - There is multiple ways to deploy a contract:
 - Deployment Process:
@@ -29,23 +23,26 @@
 - This section is about creation of a custom node Project that represents a light version of the truffle Library.
 
 ## Node Project Structure:
-asdasdaasdasdasdsdsd
-asd
-asad
-sad
-asd
-
-![alt text](https://github.com/Nhaila-Abdessamad/blockchain/blob/main/FIGs/Sec2/NodeProj%20Struct.png "Projact Structure")
-
 ## Compiling Solidity
 ## The Compile Script
-## Testing Architecture 
-## Installing Modules
-## Web3 Versioning
+
 
 Project is: _in progress_ 
-## Room for Improvement
-- Recreate The Diagrams On Draw.io
-## Acknowledgements
-- This project was based on [this tutorial](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/).
+
+## Resources
+-[Instalation Guide](https://docs.ipfs.io/install/command-line/#official-distributions)
+-[File Manipulation Examples Github](https://gist.github.com/whyrusleeping/66a85789d2abb8971fff)
+
+-[Files Browser Link](https://ipfs.filebase.io/ipfs/Qme9yNpup7qKTYiKUe75oSaxAR2E9nVLwpp6tpZ79Lv9U2)
+
+-[Lib p2p](https://hexdocs.pm/libp2p/Libp2p.DHT.html)
+
+-[IPFS: How to use IPFS CIDs and Fetch IPFS Links](https://docs.filebase.com/knowledge-base/fetching-data/how-to-use-ipfs-cids-and-fetch-ipfs-links)
+
+-[Content addressing and CIDs](https://docs.ipfs.io/concepts/content-addressing/#identifier-formats)
+
+-[A Technical Guide to IPFS – the Decentralized Storage](https://www.freecodecamp.org/news/technical-guide-to-ipfs-decentralized-storage-of-web3/#how-to-use-ipfs)
+
+=[ How IPFS works](https://docs.ipfs.io/concepts/how-ipfs-works/#content-addressing)
+
 
