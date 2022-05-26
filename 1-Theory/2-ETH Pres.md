@@ -39,6 +39,8 @@ used to store data.
 - Each Node can contain a full copy of the BlockChain.
 
 
+## Network Types
+
 ## Interfacing With Ethereum Networks
 - Developers Interact with ETH network through Web.js 
 - Normal Users(Cutomers) Interact with the network through Metamask.
