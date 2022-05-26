@@ -49,28 +49,42 @@
 - world-class development environment, testing framework, and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM), aiming to make life as a developer easier.
 
 ## GANACHE 
--  It is a locally deployed Blockchain simulator. Ganache features a graphical user interface that can simulate Blockchain networks and live-test Smart Contracts without requiring you to set up real test networks or using to a remote network.   
+-  It is a locally deployed Blockchain simulator. Ganache features a graphical user interface that can simulate Blockchain networks and live-test Smart Contracts without requiring you to set up real test networks or using a remote network.   
 
 ## DRIZZLE
 -  It is an assortment of front-end libraries that offer useful components for developing web applications that can seamlessly connect with the Smart Contracts. 
 
 ## INFURA
 
+-[Deploy Your Smart Contract via Infura Through Truffle for VS Code Extension](https://blog.infura.io/post/deploy-your-smart-contract-via-infura-through-truffle-for-vs-code-extension)
+
 ## IPFS
+
+
+-[Instalation Guide](https://docs.ipfs.io/install/command-line/#official-distributions)
+-[File Manipulation Examples Github](https://gist.github.com/whyrusleeping/66a85789d2abb8971fff)
+
+-[Files Browser Link](https://ipfs.filebase.io/ipfs/Qme9yNpup7qKTYiKUe75oSaxAR2E9nVLwpp6tpZ79Lv9U2)
+
+-[Lib p2p](https://hexdocs.pm/libp2p/Libp2p.DHT.html)
+
+-[IPFS: How to use IPFS CIDs and Fetch IPFS Links](https://docs.filebase.com/knowledge-base/fetching-data/how-to-use-ipfs-cids-and-fetch-ipfs-links)
+
+-[Content addressing and CIDs](https://docs.ipfs.io/concepts/content-addressing/#identifier-formats)
+
+-[A Technical Guide to IPFS – the Decentralized Storage](https://www.freecodecamp.org/news/technical-guide-to-ipfs-decentralized-storage-of-web3/#how-to-use-ipfs)
+
+=[ How IPFS works](https://docs.ipfs.io/concepts/how-ipfs-works/#content-addressing)
 
 ## Ethereum Go
 
 ## OpenZeppelin
+- Predifined Contracts to help in a
 
 ## Blockscout
 
 ## Markdown Status
  _in progress_ 
-
-## Room for Improvement
-
-- Recreate The Diagrams On Draw.io
-
 
 ## Resources
 - This project was based on [this tutorial](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/).
