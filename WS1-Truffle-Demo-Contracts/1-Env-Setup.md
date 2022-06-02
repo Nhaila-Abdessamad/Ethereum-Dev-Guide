@@ -31,7 +31,7 @@ ssh -i "KPLR.pem" ec2-user@ec2-54-152-59-32.compute-1.amazonaws.com
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
 . ~/.nvm/nvm.sh
 ```
-![alt text](https://github.com/Nhaila-Abdessamad/blockchain/blob/main/WS1-Truffle-Demo-Contracts/FIGs/EC2%20Log%20In.png "EC2 SSH")
+![alt text](xxxx "EC2 SSH")
 
 - Now you can Install NodeJs 14 through this command: 
 
