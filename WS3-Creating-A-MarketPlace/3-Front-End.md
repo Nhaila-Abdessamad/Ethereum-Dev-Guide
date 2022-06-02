@@ -7,8 +7,8 @@
 * [Installing Nodejs npm and Git](#installing-nodejs-npm-and-git)
 
 
-## Installing Nodejs npm and Git
-- Normal dev Environement Preparation. 
+## Exploration of the Front-End
+- Exploration of the Front-End. 
 
 ## Acknowledgements
 - [Truffle NFT MarketPlace 1](https://github.com/eQereum/truffle-web3-nft-marketplace)

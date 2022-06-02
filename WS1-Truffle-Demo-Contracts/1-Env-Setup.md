@@ -4,13 +4,10 @@
 
 
 ## Table of Contents
-* [Installing Nodejs npm and Git](#installing-nodejs-npm-and-git)
+* [Env Setup](#env-setup)
 * [Contract Deployment](#contract-deployment)
-* [Node Project Structure](#node-project-structure)
-* [Compiling Solidity](#compiling-solidity)
-* [The Compile Script](#the-compile-script)
-* [Testing Architecture](#testing-architecture)
-* [Installing Modules](#remix)
+* [Resources](#resources)
+
 
 
 
@@ -39,13 +36,6 @@
 
 
 
-## Testing Message Updates
-## Deployment with Infura 
-## Infura Signup
-## Wallet Provider Setup
-## Deployment to Rinkeby
-## Project Overview
-## Project Status
 _in progress_ 
 ## Room for Improvement
 - Recreate The Diagrams On Draw.io
