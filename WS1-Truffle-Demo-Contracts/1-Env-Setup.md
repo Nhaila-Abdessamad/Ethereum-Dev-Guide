@@ -23,14 +23,33 @@ ssh -i "KPLR.pem" ec2-user@ec2-54-152-59-32.compute-1.amazonaws.com
 
 ## Install NodeJs Through NVM:
 
+- First Install NVM Through This Command.
+- After Hitting enter the first part of the command is Executed.
+- Hit Enter again to execute the second Part
+
 ```
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
 . ~/.nvm/nvm.sh
 ```
 ![alt text](https://github.com/Nhaila-Abdessamad/blockchain/blob/main/WS1-Truffle-Demo-Contracts/FIGs/EC2%20Log%20In.png "EC2 SSH")
 
+- Now you can Install NodeJs 14 through this command: 
+
+```
+nvm install 14
+```
+
+![alt text](xxxxx "EC2 SSH")
 
 ## install Truffle & Ganache-Cli
+
+- Now you can Install Truffle & Ganache-Cli through this command:
+
+```
+npm install -g ganache-cli truffle --unsafe-perm
+```
+
+![alt text](xxxxx "EC2 SSH")
 
 
 ## Resources
