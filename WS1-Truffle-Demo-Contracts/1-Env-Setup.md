@@ -23,9 +23,9 @@ ssh -i "KPLR.pem" ec2-user@ec2-54-152-59-32.compute-1.amazonaws.com
 
 ## Install NodeJs Through NVM:
 
-- Install NVM Through These two Command.
+1.Install NVM Through These two Command.
 
-1.First Command:
+- First Command:
 
 ```
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
@@ -34,7 +34,7 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
 ![alt text](xxxx "EC2 SSH")
 
 
-2.Second Command:
+- Second Command:
 
 ```
 . ~/.nvm/nvm.sh
@@ -43,7 +43,7 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
 ![alt text](xxxx "EC2 SSH")
 
 
-- Now you can Install NodeJs 14 through this command: 
+2.Now you can Install NodeJs 14 through this command: 
 
 ```
 nvm install 14
@@ -51,9 +51,18 @@ nvm install 14
 
 ![alt text](xxxxx "EC2 SSH")
 
+3.Verify your Node Installation with this command:
+
+```
+node -v
+```
+
+![alt text](xxxxx "EC2 SSH")
+
+
 ## install Truffle & Ganache-Cli
 
-- Now you can Install Truffle & Ganache-Cli through this command:
+4.Now you can Install Truffle & Ganache-Cli through this command:
 
 ```
 npm install -g ganache-cli truffle --unsafe-perm
@@ -61,7 +70,21 @@ npm install -g ganache-cli truffle --unsafe-perm
 
 ![alt text](xxxxx "EC2 SSH")
 
+5.Verify your Truffle Installation with this command:
 
+```
+truffle -version
+```
+
+![alt text](xxxxx "EC2 SSH")
+
+6.Verify your Ganache Installation with this command:
+
+```
+ganache-cli
+```
+
+![alt text](xxxxx "EC2 SSH")
 <!-- ## Resources
 - This guide was based on:
 
