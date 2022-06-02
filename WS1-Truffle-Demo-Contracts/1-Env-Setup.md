@@ -52,11 +52,11 @@ npm install -g ganache-cli truffle --unsafe-perm
 ![alt text](xxxxx "EC2 SSH")
 
 
-## Resources
+<!-- ## Resources
 - This guide was based on:
 
 - [NFT MarketPlace](https://gist.github.com/Warkanlock/d8bdd0f96aa7fa214fcb4bf800dea5b8).
 - [NFT Mix](https://github.com/PatrickAlphaC/nft-mix).
 - [Mintables](https://www.youtube.com/watch?v=CN1PJLsWujU).
 - [basic NFT mint Contract](https://www.youtube.com/watch?v=8WPzUbJyoNg).
-- [Code an NFT Marketplace like OpenSea ytb](https://www.youtube.com/watch?v=2bjVWclBD_s)
+- [Code an NFT Marketplace like OpenSea ytb](https://www.youtube.com/watch?v=2bjVWclBD_s)-->
