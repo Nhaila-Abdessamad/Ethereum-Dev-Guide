@@ -11,9 +11,6 @@
 * [The Compile Script](#the-compile-script)
 
 
-
-
-
 ## Resources
 -[Instalation Guide](https://docs.ipfs.io/install/command-line/#official-distributions)
 -[File Manipulation Examples Github](https://gist.github.com/whyrusleeping/66a85789d2abb8971fff)

@@ -17,7 +17,6 @@
 - [Truffle HardWallet](https://www.npmjs.com/package/@truffle/hdwallet-provider)
 - [Mnemonic Generation](https://nhancv.com/deploy-smart-contract-with-truffle/)
 - [Building Scalabale NFT MarketPlce](https://dev.to/edge-and-node/building-scalable-full-stack-apps-on-ethereum-with-polygon-2cfb)
-- [a](xx)
-- [a](xx)
+
 
 

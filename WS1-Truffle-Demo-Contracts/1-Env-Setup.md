@@ -1,44 +1,27 @@
 
-# Ethereum & Solidity: The Complete Developer's Guide(Sec 1).
-> Syntesis of the Ethereum Developer guide's Second Section.
+# ENV-Setup.
+>After finishing this markdown:
+- You will learn to SSH into the EC2 Instance allocated to you.
+- Install The Required Packages to start Developing, Compiling, Testing & Deploying your smart Contracts.
 
 
 ## Table of Contents
-* [Env Setup](#env-setup)
-* [Contract Deployment](#contract-deployment)
+* [SSH to your EC2 Instance](#ssh-to-your-ec2-instance)
+* [Install NodeJs Through NVM](#install-nodejs-through-nvm)
+* [install Truffle & Ganache-Cli](#install-truffle-&-ganache-cli)
 * [Resources](#resources)
 
 
-
-
-## Installing Nodejs npm and Git
+## SSH to your EC2 Instance
 - Normal dev Environement Preparation.
 
-## Tools Used:
-1. Truffle
-2. Ganache
-3. Ifura
-4. Mocha
-
-## Contract Deployment
-- There is multiple ways to deploy a contract:
-- Deployment Process:
- 1. compilation of the contract source by a solidity compiler (SC).
- 2. The SC spits out an ABI & the contract byteCode.
- 3. This ByteCode is what ends up deployed to some Network.
-- This section is about creation of a custom node Project that represents a light version of the truffle Library.
-
-## Node Project Structure:
-
+## Install NodeJs Through NVM:
 
 ![alt text](https://github.com/Nhaila-Abdessamad/blockchain/blob/main/FIGs/Sec2/NodeProj%20Struct.png "Projact Structure")
 
+## install Truffle & Ganache-Cli
 
 
-
-_in progress_ 
-## Room for Improvement
-- Recreate The Diagrams On Draw.io
 ## Resources
 - This guide was based on:
 
