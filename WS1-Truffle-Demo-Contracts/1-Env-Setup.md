@@ -23,9 +23,9 @@ ssh -i "KPLR.pem" ec2-user@ec2-54-152-59-32.compute-1.amazonaws.com
 
 ## Install NodeJs Through NVM:
 
-- First Install NVM Through These two Command.
+- Install NVM Through These two Command.
 
-1.Second Command:
+1.First Command:
 
 ```
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
@@ -34,7 +34,7 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
 ![alt text](xxxx "EC2 SSH")
 
 
-2.First Command:
+2.Second Command:
 
 ```
 . ~/.nvm/nvm.sh
