@@ -1,7 +1,7 @@
 
 # ENV-Setup.
 >After finishing this markdown:
-- You will learn to SSH into the EC2 Instance allocated to you.
+- You will be able to SSH to the EC2 Instance allocated to you.
 - Install The Required Packages to start Developing, Compiling, Testing & Deploying your smart Contracts.
 
 
