@@ -13,7 +13,13 @@
 
 
 ## SSH to your EC2 Instance
-- Normal dev Environement Preparation.
+- Open Your CMD and make sure your working directory contains the SSH key.
+- SSH To your EC2 Instance using the following .
+```
+ssh -i "KPLR.pem" ec2-user@ec2-54-152-59-32.compute-1.amazonaws.com 
+```
+
+![alt text](https://github.com/Nhaila-Abdessamad/blockchain/blob/main/WS1-Truffle-Demo-Contracts/FIGs/EC2%20Log%20In.png "EC2 SSH")
 
 ## Install NodeJs Through NVM:
 
