@@ -13,8 +13,8 @@
 
 
 ## SSH to your EC2 Instance
-- Open Your CMD and make sure your working directory contains the SSH key.
-- SSH To your EC2 Instance using the following .
+- Open Your CMD and make sure your working directory contains the SSH key "KPLR.pem".
+- SSH To your EC2 Instance using the following command By changing the IP adress.
 ```
 ssh -i "KPLR.pem" ec2-user@ec2-54-152-59-32.compute-1.amazonaws.com 
 ```
@@ -23,6 +23,10 @@ ssh -i "KPLR.pem" ec2-user@ec2-54-152-59-32.compute-1.amazonaws.com
 
 ## Install NodeJs Through NVM:
 
+```
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
+. ~/.nvm/nvm.sh
+```
 ![alt text](https://github.com/Nhaila-Abdessamad/blockchain/blob/main/WS1-Truffle-Demo-Contracts/FIGs/EC2%20Log%20In.png "EC2 SSH")
 
 
