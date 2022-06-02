@@ -14,7 +14,7 @@
     * [Proof Of Work](#proof-of-stake)
     * [Proof Of Stake](#proof-of-work)
     * [Proof Of History](#proof-of-history)
-    * [Tokens](#tokens)
+* [Tokens](#tokens)
 * [Oracles](#oracles)
 * [Dapps](#dapps)
 * [Resources](#resources)
