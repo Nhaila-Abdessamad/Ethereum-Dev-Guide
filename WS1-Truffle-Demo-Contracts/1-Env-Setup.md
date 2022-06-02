@@ -23,15 +23,25 @@ ssh -i "KPLR.pem" ec2-user@ec2-54-152-59-32.compute-1.amazonaws.com
 
 ## Install NodeJs Through NVM:
 
-- First Install NVM Through This Command.
-- After Hitting enter the first part of the command is Executed.
-- Hit Enter again to execute the second Part
+- First Install NVM Through These two Command.
+
+1.Second Command:
 
 ```
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
+```
+
+![alt text](xxxx "EC2 SSH")
+
+
+2.First Command:
+
+```
 . ~/.nvm/nvm.sh
 ```
+
 ![alt text](xxxx "EC2 SSH")
+
 
 - Now you can Install NodeJs 14 through this command: 
 
