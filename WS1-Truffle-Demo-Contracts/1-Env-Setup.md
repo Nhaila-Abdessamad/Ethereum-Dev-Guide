@@ -17,7 +17,8 @@
 
 ## Install NodeJs Through NVM:
 
-![alt text](https://github.com/Nhaila-Abdessamad/blockchain/blob/main/FIGs/Sec2/NodeProj%20Struct.png "Projact Structure")
+![alt text](https://github.com/Nhaila-Abdessamad/blockchain/blob/main/WS1-Truffle-Demo-Contracts/FIGs/EC2%20Log%20In.png "EC2 SSH")
+
 
 ## install Truffle & Ganache-Cli
 
