@@ -93,13 +93,52 @@ contract AssociateProfitSplitter {
 
 ## Compiling The Smart Contract
 
+- Access the ***truffle-config.js*** and modify the Compiler Solc Version to ***0.5.0***
+
+- Now go back to your terminal and run:
+
+```
+truffle compile
+```
 
 
 ## Starting The Local BlockChain using Ganache-CLI
 
+- In order to deploy the contarct, you need to create a local blockchain using ganache-cli
+
+- open a new terminal and Run:
+
+```
+ganache-cli
+```
+
+
+## Preparing the migration file for our contract
+
+- Than you need to access the migrations folder and create a new file with the name ***2_deploy_contracts.js***
+- Now Add the following code to it:
+
+```
+const AssociateProfitSpliter = artifacts.require("AssociateProfitSpliter");
+
+module.exports = function (deployer) {
+  deployer.deploy(AssociateProfitSpliter);
+};
+
+```
 
 
 ## Deploying The Smart Contract
+
+- Now you can run this command to deploy you contract
+
+```
+truffle migrate
+```
+
+
+
+
 
 
 ## Resources
