@@ -77,7 +77,6 @@ truffle -version
 ```
 
 
-
 6.Verify your Ganache Installation with this command:
 
 ```

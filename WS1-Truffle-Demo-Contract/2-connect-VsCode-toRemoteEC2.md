@@ -1,7 +1,7 @@
 # ENV-Setup.
 >After finishing this markdown:
-- You will be able to SSH to the EC2 Instance allocated to you.
-- Install The Required Packages to start Developing, Compiling, Testing & Deploying your smart Contracts.
+- You will be able to configure and connect your VS Code to your assigned EC2 Instance using the remote-SSH Extention.
+
 
 
 ## Table of Contents
