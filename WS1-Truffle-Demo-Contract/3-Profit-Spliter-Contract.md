@@ -17,7 +17,16 @@
 
 ## Creating The Truffle Project Directory
 - Open your terminal or CMD and SSH to your EC2 Instance.
-- 
+- Use this Command to create a new repository:
+
+```
+mkdir DemoContract
+```
+- CD into this directory you created
+
+```
+cd DemoContract
+```
 
 ## Creating a bare Truffle project with no smart contracts included
 
@@ -28,11 +37,14 @@ truffle init
 ```
 
 ## Accesing the directory with your Vs Code
-
-
+- Once you've SSH-ed to your remote EC2 Instance with VsCode
+- you should see the directory you created above by hiting open folder and looking at the DropDown
 
 ## Writing The Smart Contract
-- 
+- Once you've accessed the directory
+- Open The Contracts Folder
+- Create a new file with the name **AssociateProfitSpliter.sol**
+- Copy The Following CodeBlock Into it:
 
 ```
 // SPDX-License-Identifier: GPL-3.0
@@ -58,8 +70,7 @@ contract AssociateProfitSplitter {
 
     function deposit() public payable {
     
-        // @TODO: Split `msg.value` into three                                          //0xb766F3e883Ea2d875488F948fbA715338Fa0d78E
-                                                                                        //0x6396149f7eBaA0ddE9Fa91DCC537A676DABB0079
+        // @TODO: Split `msg.value` into three                                         
         uint amount = msg.value/3;  // Your code here!
  
         // @TODO: Transfer the amount to each employee
