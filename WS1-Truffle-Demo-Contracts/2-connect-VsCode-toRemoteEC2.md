@@ -32,10 +32,10 @@ HostName <HOSTNAME>
 User ubuntu
 IdentityFile <PATH TO IDENTITY FILE> 
 ```
-1.```Host``` can be any name. This will appear in VS Code.
-2.```HostName``` is your EC2 Instance’s IP address.
-3.```User```is the default  username.
-4.```IdentityFile```is the complete path to the private key (the pem file) that we provided you with.
+1.```Host``` can be any name. This will appear in VS Code
+2.```HostName``` is your EC2 Instance’s IP address
+3.```User```is the default  username
+4.```IdentityFile```is the complete path to the private key (the pem file) that we provided you with
 
 
 ## Resources
