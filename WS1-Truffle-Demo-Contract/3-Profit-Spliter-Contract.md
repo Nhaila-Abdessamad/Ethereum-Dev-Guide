@@ -43,7 +43,7 @@ truffle init
 ## Writing The Smart Contract
 - Once you've accessed the directory
 - Open The Contracts Folder
-- Create a new file with the name **AssociateProfitSpliter.sol**
+- Create a new file with the name **AssociateProfitSplitter.sol**
 - Copy The Following CodeBlock Into it:
 
 ```
@@ -130,16 +130,12 @@ module.exports = function (deployer) {
 
 ## Deploying The Smart Contract
 
-- Now you can run this command to deploy you contract
+- Now you can run this command to deploy your contract
 
 ```
 truffle migrate
 ```
 
-
-
-
-
-
 ## Resources
 - [Bare Truffle Project](https://trufflesuite.com/docs/truffle/getting-started/creating-a-project/)
+- [Running Migrations](https://trufflesuite.com/docs/truffle/getting-started/running-migrations/)
