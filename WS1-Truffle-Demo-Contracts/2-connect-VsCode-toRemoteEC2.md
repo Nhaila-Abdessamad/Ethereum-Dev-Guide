@@ -8,6 +8,7 @@
 * [Install VsCode](#insall-vscode)
 * [Install the remote SSH VsCode extension](#install-the-remote-vscode-extention)
 * [Configuring the remote SSH extention](#configuring-the-remote-ssh-extention)
+* [Testing the Setup](testing-the-setup)
 * [Resources](#resources)
 
 
@@ -36,6 +37,13 @@ IdentityFile <PATH TO IDENTITY FILE>
 2. ```HostName``` is your EC2 Instance’s IP address
 3. ```User```is the default  username
 4. ```IdentityFile```is the complete path to the private key (the pem file) that we provided you with
+
+
+## Testing the Setup
+
+- Click the remote-ssh button in the bottom-left corner and click Connect to Host from the dropdown which appears.
+- Another dropdown will appear. Select the host configuration you created in the previous step (Your EC2 Instance).
+- If all’s well, you should be presented with a new editor window asking you to select your working directory.
 
 
 ## Resources
