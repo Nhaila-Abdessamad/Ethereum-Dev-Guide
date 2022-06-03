@@ -21,9 +21,21 @@
 - Locate and install the Remote-SSH extension, ensuring that it’s the correct extension (authored by Microsoft with 11.6 million installs at the time of writing).
 
 
-
 ## Configuring the remote SSH extention
+- Click the new button in the bottom left corner of the editor.
+- This will open the command palette, where you should select **Remote-SSH: Open Configuration File**.
+- An SSH config file will pop up (select the one for the current user if the extension recognizes multiple config files), into which you can enter the following configuration:
 
+```
+Host VS Code-ssh-tutorial
+HostName <HOSTNAME>
+User ubuntu
+IdentityFile <PATH TO IDENTITY FILE> 
+```
+1.```Host``` can be any name. This will appear in VS Code.
+2.```HostName``` is your EC2 Instance’s IP address.
+3.```User```is the default  username.
+4.```IdentityFile```is the complete path to the private key (the pem file) that we provided you with.
 
 
 ## Resources
