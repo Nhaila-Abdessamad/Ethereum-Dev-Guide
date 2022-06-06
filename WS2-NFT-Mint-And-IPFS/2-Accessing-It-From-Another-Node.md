@@ -1,55 +1,34 @@
 
-# Ethereum & Solidity: The Complete Developer's Guide(Sec 1).
-> Syntesis of the Ethereum Developer guide's Second Section.
+# Accessing The File we Uploaded from another IPFS Node.
+> By Finishing This Markdown:
+
+- you have been able to access the image file you uploaded to your Ipfs node from your friend's Node.
+
 
 
 ## Table of Contents
-* [Installing Nodejs npm and Git](#installing-nodejs-npm-and-git)
-* [Contract Deployment](#contract-deployment)
-* [Node Project Structure](#node-project-structure)
-* [Compiling Solidity](#compiling-solidity)
-* [The Compile Script](#the-compile-script)
+* [Making sure both IPFS Nodes are Online](#making-sure-both-ipfs-nodes-are-online)
+* [Download the Image using the CID](#download-the-image-using-the-CID)
 
 
-## Installing Nodejs npm and Git
-- Normal dev Environement Preparation.
+## Making sure both IPFS Nodes are Online
+- Make sure the ipfs daemon process is active on both nodes
 
-## Tools Used:
-1. Truffle
-2. Ganache
-3. Ifura
-4. Mocha
+## Download the Image using the CID  
+- cd to ipfsFILES from the other instance you have access to
 
-## Contract Deployment
-- There is multiple ways to deploy a contract:
-- Deployment Process:
- 1. compilation of the contract source by a solidity compiler (SC).
- 2. The SC spits out an ABI & the contract byteCode.
- 3. This ByteCode is what ends up deployed to some Network.
-- This section is about creation of a custom node Project that represents a light version of the truffle Library.
+```
+cd ipfsFILES
+```
 
-## Node Project Structure:
-asdasdaasdasdasdsdsd
-asd
-asad
-sad
-asd
+- Use this command to download the file on the second node 
+- Don't forget to replace **<HASH>** with the image CID you got after uploading it to the first node.
 
-![alt text](https://github.com/Nhaila-Abdessamad/blockchain/blob/main/FIGs/Sec2/NodeProj%20Struct.png "Projact Structure")
+```
+ipfs get -o picture.png  <HASH>
+```
 
-## Compiling Solidity
-## The Compile Script
-## Testing Architecture 
-## Installing Modules
-## Web3 Versioning
-
-Project is: _in progress_ 
-## Room for Improvement
-- Recreate The Diagrams On Draw.io
 ## Resources
-- [a](xx)
-- [a](xx)
-- [a](xx)
-- [a](xx)
-- [a](xx)
+- [Files Manipulation examples in IPFS](https://gist.github.com/whyrusleeping/66a85789d2abb8971fff)
+
 
