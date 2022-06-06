@@ -4,7 +4,7 @@
 
 
 ## Table of Contents
-* [Installing Nodejs npm and Git](#installing-nodejs-npm-and-git)
+* [Installing IPFS](#installing-nodejs-npm-and-git)
 * [Contract Deployment](#contract-deployment)
 * [Node Project Structure](#node-project-structure)
 * [Compiling Solidity](#compiling-solidity)
