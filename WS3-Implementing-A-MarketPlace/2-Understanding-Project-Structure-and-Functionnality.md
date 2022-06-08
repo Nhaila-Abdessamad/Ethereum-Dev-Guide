@@ -1,15 +1,24 @@
 
-# MarketPlace Contract.
-> MarketPlace Contract.
+# Understanding the Project Structure and Features.
+> By finishing this markdown:
+
+- you have 
+- you have
 
 
 ## Table of Contents
-* [Installing Nodejs npm and Git](#installing-nodejs-npm-and-git)
-* [Resources](#resources)
+* [MarketPlace Architecture](#marketplace-architecture)
+* [MarketPlace Features](#marketplace-features)
 
 
-## Installing Nodejs npm and Git
-- Normal dev Environement Preparation.
+## MarketPlace Architecture
+
+- aa
+
+
+## MarketPlace Features
+
+
 
 ## Resources
 - [Truffle NFT MarketPlace 1](https://github.com/eQereum/truffle-web3-nft-marketplace)
