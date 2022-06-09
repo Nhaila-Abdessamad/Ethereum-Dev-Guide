@@ -2,8 +2,8 @@
 # Understanding the Project Structure and Features.
 > By finishing this markdown:
 
-- you have 
-- you have
+- you have Understood the MarketPlace Architecture.
+- you have Learned about its features.
 
 
 ## Table of Contents

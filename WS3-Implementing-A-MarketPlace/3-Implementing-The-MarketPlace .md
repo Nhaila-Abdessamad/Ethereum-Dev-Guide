@@ -2,8 +2,8 @@
 # Implementing The MarketPlace.
 > By finishing this markdown:
 
-- you have 
-- you have
+- you have Compiled Tested and Deployed the smart contracts.
+- you have started the 
 
 
 ## Table of Contents
@@ -13,13 +13,40 @@
 
 
 ## Compiling The Contracts
-- Exploration of the Front-End. 
+- Make sure you are the marketplace directory:
+- Select nodejs version:
 
+```
+nvm install 14
+```
+
+- Compile the contracts using this command 
+```
+truffle compile
+```
+
+- Test the Contracts 
+```
+truffle test
+```
 
 ## Deployng The Contracts
+- start a local blockchain using:
+```
+ganache-cli
+```
 
+- Deploy the contracts to that local blockchain using:
+```
+truffle migrate
+```
 
 ## Implementing the front end
+- because you already installed metamask in the first workshop you can start the projects'front-end using this command:
+```
+npm start
+```
+
 
 
 ## Acknowledgements
